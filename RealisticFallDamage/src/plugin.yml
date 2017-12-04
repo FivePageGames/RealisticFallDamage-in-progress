@@ -1,0 +1,12 @@
+name: RealisticFallDamage
+version: 1.0
+main: www.fivepagegames.realFd.main.Main
+author: FivePageGames
+
+commands:
+   realisticfd:
+      usage: /<command>
+      aliases: [realfd, rfd, realisticfd]
+   realfdbehandel:
+      usage: /<command>
+      aliases: [rfdb, realisticfalldamagebehandel, realisticfdbehandel]

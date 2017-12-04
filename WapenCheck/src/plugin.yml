@@ -1,0 +1,9 @@
+name: WapenCheck
+version: 1.0
+main: www.fivepagegames.wapencheck.Main
+author: FivePageGames
+
+commands:
+   wapencheck:
+      usage: /<command>
+      permissions: wapencheck.check
